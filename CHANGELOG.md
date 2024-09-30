@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/eoeo-org/cloudflare-ip-address-changer-rs/compare/v0.5.0...v0.5.1) (2024-09-30)
+
+
+### Dependencies
+
+* lock file maintenance ([#11](https://github.com/eoeo-org/cloudflare-ip-address-changer-rs/issues/11)) ([7e8bd0c](https://github.com/eoeo-org/cloudflare-ip-address-changer-rs/commit/7e8bd0c0dca13852261e5bb2b39f1f287253495a))
+
 ## [0.5.0](https://github.com/eoeo-org/cloudflare-ip-address-changer-rs/compare/v0.4.0...v0.5.0) (2024-09-28)
 
 
